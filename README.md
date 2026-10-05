@@ -6,7 +6,7 @@ The portfolio is designed with a clean and minimal interface while keeping the f
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](https://khandelwalpaarth.github.io/)
+[[View My Portfolio](https://khandelwalpaarth.github.io/)](https://khandelwalpaarth.github.io/Portfolio.KP/)
 
 ---
 
